@@ -20,6 +20,8 @@ orange <- 6
 
 magenta <- orange/pink
 
+small<- "change"
+
 ```
 
 After making minimal changes, SAVE this .Rmd (default will be to the project folder, but check to make sure).
